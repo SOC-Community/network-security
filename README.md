@@ -1,2 +1,2 @@
 # network-security
-Intrsion Detection System with (Suricata Platfrom + IoC Database) to detect bad traffic
+Intrsion Detection System with (Suricata Platform + IoC Database) to detect bad traffic
